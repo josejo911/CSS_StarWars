@@ -21,6 +21,7 @@
   margin: 0 auto;
   background: #fff;
   border-radius: 10px;
+  box-shadow: inset 0 0 5px 5px red;
 }
 .person {
   width: 196px;
@@ -55,6 +56,7 @@ body{
   color: #FFFF00;
   font-size: 5vw;
   font-family: 'Codystar';
+  box-shadow: -5px -5px 30px 5px red;
 }
 
 .text-wrapper h3{
